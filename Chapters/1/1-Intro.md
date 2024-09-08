@@ -17,4 +17,4 @@ Think of your OS as the *Ringmaster* of the digital circus. It juggles all your 
 - **Process Isolation and Security**: Find out how the OS keeps processes isolated and secure. It’s like having bouncers at the entrance of each process to make sure no unwanted guests crash the party.
 
 
-[back](readme.md) | [Next](2-CPUVirtualize.md)
+[Back](readme.md) | [Next](2-CPUVirtualize.md)

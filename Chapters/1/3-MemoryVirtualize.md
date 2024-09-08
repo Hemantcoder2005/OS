@@ -76,4 +76,5 @@ This means that even though the address `0x200000` looks the same across differe
 So, the next time you’re running multiple programs and everything seems to be working smoothly, remember that it’s the magic of virtual memory making it all possible!
 
 Happy exploring in the world of virtual memory! 🌟
-[back](2-CPUVirtualize.md) | [Next](3-MemoryVirtualize.md)
+
+[Back](2-CPUVirtualize.md) | [Next](4-Concurrency.md)

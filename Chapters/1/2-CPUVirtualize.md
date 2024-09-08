@@ -93,4 +93,5 @@ a very large number of virtual CPUs. Turning a single CPU (or a small
 set of them) into a seemingly infinite number of CPUs and thus allowing
 many programs to seemingly run at once is what we call **virtualizing the
 CPU**
-[back](1-Intro.md) | [Next](3-MemoryVirtualize.md)
+
+[Back](1-Intro.md) | [Next](3-MemoryVirtualize.md)
