@@ -1,7 +1,3 @@
-# Welcome to Operating Systems: The Greatest Show on Earth!
-
-🎉 **Congratulations!** 🎉 You've just signed up for the wildest ride in computer science: the Operating Systems course! Get ready to dive into the mysterious and marvelous world of operating systems (OS), where the magic of virtualization transforms your computer's physical resources into a dazzling virtual wonderland. Here's a sneak peek of what you'll uncover:
-
 ## What’s an Operating System Anyway?
 
 Think of your OS as the *Ringmaster* of the digital circus. It juggles all your hardware (CPU, memory, disks, oh my!) and makes sure everything runs smoothly, like a pro circus performer. Whether it's managing memory or orchestrating multitasking, the OS ensures your computer’s performance is nothing short of spectacular. 
@@ -21,7 +17,4 @@ Think of your OS as the *Ringmaster* of the digital circus. It juggles all your 
 - **Process Isolation and Security**: Find out how the OS keeps processes isolated and secure. It’s like having bouncers at the entrance of each process to make sure no unwanted guests crash the party.
 
 
-<div style="display: flex; justify-content: space-between; width: 100%;  margin: 20px;">
-  <a href="" style="padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Back</a>
-  <a href="2-CPUVirtualize.md" style="padding: 10px 20px; font-size: 16px; color: #fff; background-color: #28a745; text-align: center; text-decoration: none; border-radius: 5px;">Next</a>
-</div>
+[back](readme.md) | [Next](2-CPUVirtualize.md)

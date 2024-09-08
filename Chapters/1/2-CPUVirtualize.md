@@ -93,7 +93,4 @@ a very large number of virtual CPUs. Turning a single CPU (or a small
 set of them) into a seemingly infinite number of CPUs and thus allowing
 many programs to seemingly run at once is what we call **virtualizing the
 CPU**
-<div style="display: flex; justify-content: space-between; width: 100%;  margin: 20px;">
-  <a href="1-Intro.md" style="padding: 10px 20px; font-size: 16px; color: #fff; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Back</a>
-  <a href="3-MemoryVirtualize.md" style="padding: 10px 20px; font-size: 16px; color: #fff; background-color: #28a745; text-align: center; text-decoration: none; border-radius: 5px;">Next</a>
-</div>
+[back](1-Intro.md) | [Next](3-MemoryVirtualize.md)
