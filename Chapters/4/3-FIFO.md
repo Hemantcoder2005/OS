@@ -14,7 +14,7 @@ FIFO has some clear benefits: it's simple and easy to implement. Given our assum
 
 #### Timeline for FIFO Scheduling:
 
-![FIFO Simple Example](path/to/fifo-simple-example.png)
+![FIFO Simple Example](src/1.png)
 
 From the timeline, you can see:
 - Job A finishes at 10 seconds
@@ -35,7 +35,7 @@ Let’s relax the assumption that all jobs have the same run time. What if jobs 
 
 #### Timeline for FIFO Scheduling with Different Job Lengths:
 
-![FIFO With Different Job Lengths](path/to/fifo-different-lengths.png)
+![FIFO With Different Job Lengths](src/2.png)
 
 In this case:
 - Job A runs for 100 seconds before Jobs B and C even start
