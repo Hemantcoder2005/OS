@@ -17,7 +17,6 @@ Let’s look at three jobs, A, B, and C, each needing 5 seconds to run, and a ti
 
 #### Timeline for RR Scheduling:
 
-![Round Robin Scheduling Example](path/to/round-robin-example.png)
 
 In the timeline:
 - Each job gets a 1-second slice in rotation
