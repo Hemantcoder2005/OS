@@ -22,9 +22,7 @@ From the timeline, you can see:
 - Job C finishes at 30 seconds
 
 **Average Turnaround Time:**
-\[
-\text{Average} = \frac{10 + 20 + 30}{3} = 20 \text{ seconds}
-\]
+$T_{\text{average}} = \frac{10 + 20 + 30}{3} = 20 \text{ seconds}$
 
 ## 🚨 What Happens When Assumptions Change?
 
@@ -42,9 +40,7 @@ Let’s relax the assumption that all jobs have the same run time. What if jobs 
 In this case:
 - Job A runs for 100 seconds before Jobs B and C even start
 - The average turnaround time becomes a painful 110 seconds:
-  \[
-  \text{Average} = \frac{100 + 110 + 120}{3} = 110 \text{ seconds}
-  \]
+$T_{\text{average}} = \frac{100 + 110 + 120}{3} = 110 \text{ seconds}$
 
 This scenario highlights the **convoy effect**—where a long job delays the completion of all subsequent jobs, leading to high turnaround times.
 
